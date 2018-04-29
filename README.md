@@ -18,7 +18,8 @@ go get github.com/gorilla/websocket
 ```
 go run main.go
 ```
-steps 2- 
+step 2 - 
+
 1] open browser Then go to following address http://localhost:8888
 Enter your details and send messages
 
